@@ -1,0 +1,21 @@
+{
+  "deviceVendor": "AVR",
+  "deviceName": "AntvrHeadset",
+  "author": "LiuPengHui <liupenghui@antvr.com>",
+  "version": 1,
+  "lastModified": "2016-03-29T17:27:07.0Z",
+  "interfaces": {
+    "tracker": {
+      "count": 1,
+      "bounded": false,
+      "position": false,
+      "orientation": true
+    }
+  },
+  "semantic": {
+    "hmd": "tracker/0"
+  },
+  "automaticAliases": {
+      "/me/head": "semantic/hmd"
+  }
+}
