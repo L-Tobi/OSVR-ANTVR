@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "schemaVersion": 1
+    },
+    "renderManagerConfig": {
+        "directModeEnabled": true,
+        "directDisplayIndex": 0,
+        "directHighPriorityEnabled": false,
+        "numBuffers": 1,
+        "verticalSyncEnabled": true,
+        "verticalSyncBlockRenderingEnabled": true,
+        "renderOverfillFactor": 2.0,
+
+        "window": {
+            "title": "OSVR",
+            "fullScreenEnabled": true,
+            "xPosition": 0,
+            "yPosition": 0
+        },
+
+        "display": {
+            "rotation": 90,
+            "bitsPerColor": 8
+        },
+
+        "timeWarp": {
+            "enabled": true,
+            "asynchronous": false,
+            "maxMsBeforeVSync": 5
+        }
+    }
+}
