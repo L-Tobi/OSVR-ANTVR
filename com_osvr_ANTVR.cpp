@@ -27,10 +27,7 @@
 
 // Internal Includes
 #include <osvr/PluginKit/PluginKit.h>
-#include <osvr/PluginKit/AnalogInterfaceC.h>
-#include <osvr/PluginKit/ButtonInterfaceC.h>
 #include <osvr/PluginKit/TrackerInterfaceC.h>
-#include <osvr/PluginKit/EyeTrackerInterfaceC.h>
 #include "ANTVRHeadsetTracker.h"
 // Generated JSON header file
 #include "com_osvr_ANTVR_json.h"
