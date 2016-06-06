@@ -1,0 +1,13 @@
+{
+    "deviceVendor": "ANTVR",
+    "deviceName": "Headset KIT1",
+    "author": "LiuPengHui <liupenghui@antvr.com>",
+    "version": 1,
+    "lastModified": "2016-03-11T11:23:41Z",
+    "interfaces": {
+        "tracker": {
+            "count": 1
+        }
+    }
+}
+
