@@ -1,5 +1,5 @@
 # OSVR-ANTVR 
-> Maintained at <https://github.com/OSVR/OSVR-ANTVR>
+> Maintained at <https://github.com/L-Tobi/OSVR-ANTVR>
 >
 > For details, see <http://osvr.github.io>
 
